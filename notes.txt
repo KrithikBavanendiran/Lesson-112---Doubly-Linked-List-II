@@ -1,0 +1,5 @@
+Searching in a doubly linked list
+1. Make head as a current Node
+2. Run a loop until the current Node equals null
+3. Check if the Node's key equals each item for every iteration,
+ if it finds it it is equal to true and if it reaches the end with no match it is false 
